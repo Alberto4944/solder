@@ -15,5 +15,6 @@ BOM:
 Slack Username: Albert Wu
 
 ![schematic](https://github.com/user-attachments/assets/b2fb7d0e-62a8-46df-97ea-9adcec8bd9f9)
-![pcb](https://github.com/user-attachments/assets/0e04eefa-2da5-43c0-9df4-df4b9b5cfd0b)
-![3d](https://github.com/user-attachments/assets/a033f828-5ff1-4299-8df4-fb6c57536f0c)
+![pcb](https://github.com/user-attachments/assets/343c83a5-9cc7-4cac-acf0-ce3323c5e2cb)
+![3d-top](https://github.com/user-attachments/assets/3bd89a6c-2fce-452e-badd-86e8507a6c18)
+![3d-bottom](https://github.com/user-attachments/assets/526fc704-e73e-4d51-afb1-e3101c4e7325)
